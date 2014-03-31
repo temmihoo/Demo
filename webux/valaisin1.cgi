@@ -47,7 +47,7 @@ print <<EOF;
 <style>
     #valaisinkuva { background-color: $valobg; }
     body          { background-color: $bodybg; }
-    .koko         { width: 100%; }
+    .koko         { width: 30%; }
 </style>
 <script type='text/javascript'>
     function submittaa() {
@@ -64,7 +64,7 @@ print <<EOF;
         id='valaisinkuva'
         class='koko'>
 
-    <form action='http://192.168.43.99/~teemu/valaisin1.cgi' id='valaisin1form'
+    <form action='http://127.0.0.1/~teemu/valaisin1.cgi' id='valaisin1form'
           name='valaisin1form' method='post'>
 
         <p class='koko'><input type='range' min='0' max='255'
