@@ -1,0 +1,82 @@
+sw1
+  description Juniper EX3300-24P switch
+  interface vlan10
+    mac-address many
+    ip-address      10.1.1.1/24
+
+wifi
+  description Zyxel P-660HW-D1(F)
+  interface wifi
+    mac-address 00:02:cf:e3:75:e4
+    ip-address      192.168.1.2/24
+  interface ethernet
+    mac-address 00:02:cf:e3:75:e4
+    ip-address      192.168.1.2/24
+
+
+SitElli
+  description NVidia Jetson TK1 board running NVidia Ubuntu 14.0.4.01 LTS
+  interface   eth0
+    mac-address     bc:16:65:b6:bf:7a
+    ip-address      10.1.1.2/24
+
+SacrePad
+  description One iPad To Rule Them All
+  interface   en0
+    mac-address     e0:f8:47:SOMETHINGSOMETHINGSOMETHING
+    ip-address      10.1.1.64/24
+
+Mannequin-Ahto
+  description Mannequin wearing the green jacket: Ahto   // THIS IS THE ONE
+  interface   X
+    mac-address
+    ip-address      10.1.1.16/24
+
+Mannequin-Vallila
+  description Mannequin wearing the wool shirt: Vallila  // the front guy
+  interface   X
+    mac-address
+    ip-address      10.1.1.17/24
+
+Mannequin-Rokka
+  description Mannequin wearing the jacket: Rokka        // woman mannequin
+  interface   X
+    mac-address
+    ip-address      10.1.1.18/24
+
+Shelf-Ahto-S
+  description Shelf for product Ahto in size S
+  interface   X
+    mac-address
+    ip-address      10.1.1.32/24
+
+Shelf-Ahto-M
+  description Shelf for product Ahto in size M
+  interface   X
+    mac-address
+    ip-address      10.1.1.33/24
+
+Shelf-Ahto-L
+  description Shelf for product Ahto in size L
+  interface   X
+    mac-address
+    ip-address      10.1.1.34/24
+
+Shelf-Vallila-S
+  description Shelf for product Vallila in size S
+  interface   X
+    mac-address
+    ip-address      10.1.1.35/24
+
+Shelf-Vallila-M
+  description Shelf for product Vallila in size M
+  interface   X
+    mac-address
+    ip-address      10.1.1.36/24
+
+Shelf-Vallila-L
+  description Shelf for product Vallila in size L
+  interface   X
+    mac-address
+    ip-address      10.1.1.37/24
+
