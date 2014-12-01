@@ -44,39 +44,75 @@ Mannequin-Rokka
     mac-address
     ip-address      10.1.1.18/24
 
-Shelf-Ahto-S
-  description Shelf for product Ahto in size S
+Shelf-Ahto-S-RGB
+  description Shelf RGB light for product Ahto in size S
   interface   X
     mac-address
     ip-address      10.1.1.32/24
 
-Shelf-Ahto-M
-  description Shelf for product Ahto in size M
+Shelf-Ahto-S-W
+  description Shelf white light for product Ahto in size S
   interface   X
     mac-address
     ip-address      10.1.1.33/24
 
-Shelf-Ahto-L
-  description Shelf for product Ahto in size L
+Shelf-Ahto-M-RGB
+  description Shelf RGB light for product Ahto in size M
   interface   X
     mac-address
     ip-address      10.1.1.34/24
 
-Shelf-Vallila-S
-  description Shelf for product Vallila in size S
+Shelf-Ahto-M-W
+  description Shelf white light for product Ahto in size M
   interface   X
     mac-address
     ip-address      10.1.1.35/24
 
-Shelf-Vallila-M
-  description Shelf for product Vallila in size M
+Shelf-Ahto-L-RGB
+  description Shelf RGB light for product Ahto in size L
+  interface   X
+    mac-address
+    ip-address      10.1.1.34/24
+
+Shelf-Ahto-L-W
+  description Shelf white light for product Ahto in size L
+  interface   X
+    mac-address
+    ip-address      10.1.1.35/24
+
+Shelf-Vallila-S-RGB
+  description Shelf RGB light for product Vallila in size S
   interface   X
     mac-address
     ip-address      10.1.1.36/24
 
-Shelf-Vallila-L
-  description Shelf for product Vallila in size L
+Shelf-Vallila-S-W
+  description Shelf white light for product Vallila in size S
   interface   X
     mac-address
     ip-address      10.1.1.37/24
+
+Shelf-Vallila-M-RGB
+  description Shelf RGB light for product Vallila in size M
+  interface   X
+    mac-address
+    ip-address      10.1.1.38/24
+
+Shelf-Vallila-M-W
+  description Shelf white light for product Vallila in size M
+  interface   X
+    mac-address
+    ip-address      10.1.1.39/24
+
+Shelf-Vallila-L-RGB
+  description Shelf RGB light for product Vallila in size L
+  interface   X
+    mac-address
+    ip-address      10.1.1.40/24
+
+Shelf-Vallila-L-W
+  description Shelf white light for product Vallila in size L
+  interface   X
+    mac-address
+    ip-address      10.1.1.41/24
 
