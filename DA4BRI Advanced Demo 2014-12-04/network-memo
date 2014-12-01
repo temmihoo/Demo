@@ -17,7 +17,7 @@ wifi
 SitElli
   description NVidia Jetson TK1 board running NVidia Ubuntu 14.0.4.01 LTS
   interface   eth0
-    mac-address     bc:16:65:b6:bf:7a
+    mac-address     0:4:4b:26:fc:7
     ip-address      10.1.1.2/24
 
 SacrePad
