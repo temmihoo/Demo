@@ -72,47 +72,47 @@ Shelf-Ahto-L-RGB
   description Shelf RGB light for product Ahto in size L
   interface   X
     mac-address
-    ip-address      10.1.1.34/24
+    ip-address      10.1.1.36/24
 
 Shelf-Ahto-L-W
   description Shelf white light for product Ahto in size L
   interface   X
     mac-address
-    ip-address      10.1.1.35/24
+    ip-address      10.1.1.37/24
 
 Shelf-Vallila-S-RGB
   description Shelf RGB light for product Vallila in size S
   interface   X
     mac-address
-    ip-address      10.1.1.36/24
+    ip-address      10.1.1.38/24
 
 Shelf-Vallila-S-W
   description Shelf white light for product Vallila in size S
   interface   X
     mac-address
-    ip-address      10.1.1.37/24
+    ip-address      10.1.1.39/24
 
 Shelf-Vallila-M-RGB
   description Shelf RGB light for product Vallila in size M
   interface   X
     mac-address
-    ip-address      10.1.1.38/24
+    ip-address      10.1.1.40/24
 
 Shelf-Vallila-M-W
   description Shelf white light for product Vallila in size M
   interface   X
     mac-address
-    ip-address      10.1.1.39/24
+    ip-address      10.1.1.41/24
 
 Shelf-Vallila-L-RGB
   description Shelf RGB light for product Vallila in size L
   interface   X
     mac-address
-    ip-address      10.1.1.40/24
+    ip-address      10.1.1.42/24
 
 Shelf-Vallila-L-W
   description Shelf white light for product Vallila in size L
   interface   X
     mac-address
-    ip-address      10.1.1.41/24
+    ip-address      10.1.1.43/24
 
